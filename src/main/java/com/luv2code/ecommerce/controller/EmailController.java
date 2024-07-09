@@ -10,7 +10,7 @@ import com.luv2code.ecommerce.dto.EmailDetails;
 import com.luv2code.ecommerce.service.EmailService;
 
 @RestController
-@RequestMapping("/api/")
+@RequestMapping("/api")
 public class EmailController {
     
     @Autowired 
